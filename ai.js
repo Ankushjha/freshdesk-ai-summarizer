@@ -1,4 +1,4 @@
-const API_KEY = "AIzaSyB2W5EzHaYZpFwe4aFWbR5CNwg828dfxQQ"; 
+const API_KEY = "Add You API key here"; 
 
 // Function to list available models (for debugging/verification)
 async function listAvailableModels() {
